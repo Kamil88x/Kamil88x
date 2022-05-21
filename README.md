@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamil88x
-- 👀 I’m interested in html/css/js
-- 🌱 I’m currently learning advanced js
+- 🌱 I’m currently learning advanced js 🙃
+
 
 
 <!---
