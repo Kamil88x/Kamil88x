@@ -1,5 +1,5 @@
  <h1 align="center">👋 Hi, I’m @Kamil88x </h1>
-<h2 align="center"> - 🌱 I’m currently learning advanced js 🙃 </h2>
+<h2 align="center"> - 🌱 I’m currently learning advanced js 🙃 - </h2>
 
 
 <h3 align="center">Languages and Tools:</h3>
